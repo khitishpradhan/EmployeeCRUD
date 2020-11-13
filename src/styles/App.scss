@@ -1,0 +1,11 @@
+tr:hover .actions {
+  cursor: pointer;
+}
+
+tbody td a {
+  color: #222;
+
+  &:hover {
+    color: #222;
+  }
+}
